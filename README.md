@@ -1,8 +1,8 @@
 # 🌾 Smart Crop Choice Adviser using Generative AI
 
 A Streamlit web app that recommends the best crop for a farmer's conditions, explains the choice in simple language, and reads the advice aloud.
+https://smart-crop-adviser.streamlit.app/
 
-**Live app:** _add your Streamlit link here_
 
 ## Features
 - Inputs: soil type, season, region, temperature, rainfall, soil pH, market trend
